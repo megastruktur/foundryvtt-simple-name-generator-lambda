@@ -1,0 +1,374 @@
+Abigail
+Ada
+Adelaide
+Adélia
+Adelina
+Adriana
+Ágata
+Águeda
+Aida
+Alana
+Albertina
+Alexandra
+Alice
+Alícia
+Aline
+Alma
+Alva
+Amada
+Amália
+Amanda
+Ambrósia
+Amélia
+Amelina
+Ana
+Ana Beatriz
+Ana Carolina
+Ana Clara
+Ana Lúcia
+Ana Margarida
+Ana Maria
+Ana Rita
+Anabel
+Anastácia
+Andrea
+Andreia
+Ângela
+Angelina
+Anita
+Apolónia
+Ariana
+Arlete
+Aspásia
+Astrid
+Augusta
+Aurélia
+Aureliana
+Aurora
+Auta
+Ava
+Avelina
+Bárbara
+Beatriz
+Beatriz Maria
+Belinda
+Benedita
+Berenice
+Bernarda
+Bernardete
+Bianca
+Bibiana
+Branca
+Brásia
+Brenda
+Brígida
+Bruna
+Caetana
+Camila
+Carina
+Carla
+Carlota
+Carmela
+Cármen
+Carolina
+Cassandra
+Cássia
+Catalina
+Catarina
+Caterina
+Cátia
+Cecília
+Celeste
+Célia
+Cira
+Clara
+Clarisse
+Cláudia
+Clementina
+Cleonice
+Cloé
+Constança
+Consuelo
+Cora
+Crisante
+Cristela
+Cristiana
+Cristina
+Damiana
+Daniela
+Darlene
+Débora
+Deise
+Denise
+Diana
+Dina
+Dione
+Dirce
+Domenica
+Dora
+Doriana
+Dóris
+Doroteia
+Dulce
+Edith
+Eduarda
+Edviges
+Efigénia
+Elena
+Eleonor
+Elisa
+Elisabete
+Elisabeth
+Eloisa
+Elsa
+Ema
+Emanuela
+Emília
+Emiliana
+Érica
+Érika
+Esmeralda
+Esperança
+Estefânia
+Estela
+Ester
+Estrela
+Eugênia
+Eulália
+Eva
+Evelina
+Eveline
+Fábia
+Fabiana
+Fabíola
+Fabrícia
+Fani
+Fátima
+Felícia
+Fernanda
+Filipa
+Flávia
+Flora
+Florença
+Francisca
+Frederica
+Gabriela
+Genoveva
+Georgete
+Germana
+Gertrudes
+Giana
+Gilda
+Gisela
+Gislene
+Gláucia
+Glória
+Graça
+Graciana
+Graciela
+Greta
+Guilhermina
+Helena
+Helga
+Heloísa
+Hermínia
+Hilária
+Iara
+Iasmin
+Inês
+Ingrid
+Inocência
+Iolanda
+Irene
+Íris
+Isa
+Isabel
+Isabela
+Isadora
+Isidora
+Isis
+Ivana
+Ivone
+Jacinta
+Jade
+Janaína
+Janete
+Janice
+Januária
+Jaqueline
+Jéssica
+Joana
+Joana Filipa
+Joice
+Jordana
+Josefina
+Júlia
+Juliana
+Julieta
+Laila
+Lara
+Lara Filipa
+Lara Maria
+Lara Sofia
+Larissa
+Laura
+Lavínia
+Leila
+Leónia
+Leonor
+Leonor Maria
+Letícia
+Lia
+Lídia
+Lígia
+Liliana
+Lira
+Lisa
+Lisandra
+Lívia
+Lorena
+Lourença
+Luana
+Lucena
+Lúcia
+Lucina
+Ludmila
+Luísa
+Lurdes
+Luzia
+Madalena
+Mafalda
+Magda
+Maiara
+Maísa
+Manuela
+Mara
+Márcia
+Margarida
+Maria
+Maria Amália
+Maria Augusta
+Maria Beatriz
+Maria Benedita
+Maria Carolina
+Maria Clara
+Maria Crisóstoma
+Maria da Conceição
+Maria das Dores
+Maria do Carmo
+Maria do Rosário
+Maria Francisca
+Maria Inês
+Maria João
+Maria Júlia
+Maria Laura
+Maria Leonor
+Maria Lúcia
+Maria Luísa
+Maria Madalena
+Maria Rita
+Maria Salomé
+Maria Sofia
+Maria Teresa
+Mariana
+Mariana Filipa
+Marina
+Marisa
+Marlene
+Marta
+Matilde
+Maximiliana
+Mécia
+Mel
+Melissa
+Mia
+Micaela
+Michele
+Milena
+Miriam
+Mónica
+Morgana
+Muriel
+Nádia
+Naiara
+Natália
+Nicole
+Nicole
+Noemi
+Núbia
+Núria
+Odélia
+Ofélia
+Olga
+Olívia
+Paloma
+Pámela
+Patrícia
+Paula
+Penélope
+Peregrina
+Perla
+Pilar
+Poliana
+Prisca
+Priscila
+Quitéria
+Rafaela
+Raquel
+Rebeca
+Regina
+Renata
+Rita
+Roberta
+Romana
+Rosa
+Rosália
+Rosário
+Rute
+Sabina
+Sabrina
+Safira
+Salete
+Samanta
+Samara
+Sandra
+Sara
+Sebastiana
+Serafina
+Sheila
+Sibila
+Silvana
+Sílvia
+Simone
+Sofia
+Solange
+Susana
+Tabita
+Taís
+Taísa
+Talita
+Tâmara
+Tânia
+Tatiana
+Telma
+Teodora
+Teresa
+Ticiana
+Tomásia
+Úrsula
+Valentina
+Valéria
+Vanessa
+Vânia
+Vera
+Veridiana
+Verónica
+Victória
+Violeta
+Vitória
+Viviana
+Yara
+Yasmin
+Zélia
+Zilda
+Zulmira

@@ -1,0 +1,377 @@
+Ada
+Adela
+Adelaida
+Adelina
+Adina
+Adriana
+Agata
+Aida
+Albertina
+Alexandra
+Alexandrina
+Alice
+Alida
+Alina
+Alis
+Alma
+Amalia
+Amanda
+Amelia
+Ana
+Ana Carolina
+Ana Caterina
+Ana Coralia
+Ana Cristina
+Ana Livia
+Ana Luiza
+Ana Maria
+Ana Nicoleta
+Anamaria
+Anastasia
+Anca
+Ancuța
+Anda
+Andra
+Andrada
+Andreea
+Andreea Carina
+Andreea Carolina
+Andreea Claudia
+Andreea Elena
+Andreea Ioana
+Andreea Larisa
+Andreea Violeta
+Anemona
+Aneta
+Angela
+Anica
+Anișoara
+Antoaneta
+Antonela
+Antonia
+Anuța
+Ariadna
+Ariana
+Arina
+Astrid
+Augustina
+Aura
+Aurelia
+Aureliana
+Aurica
+Aurora
+Beatrice
+Bianca
+Bogdana
+Brândușa
+Camelia
+Carina
+Carla
+Carmen
+Carmina
+Carolina
+Casandra
+Casiana
+Cătălina
+Caterina
+Catinca
+Catrina
+Catrinel
+Cecilia
+Celia
+Cerasela
+Cezara
+Cipriana
+Clara
+Clarisa
+Claudia
+Codrina
+Codruța
+Constanța
+Constantina
+Consuela
+Coralia
+Corina
+Cornelia
+Cosmina
+Crenguța
+Crina
+Cristiana
+Cristina
+Daciana
+Dafina
+Daiana
+Dalia
+Dana
+Daniela
+Daria
+Dariana
+Delia
+Demetra
+Denisa
+Despina
+Diana
+Dida
+Didina
+Dina
+Dina Maria
+Doina
+Domnica
+Dora
+Doriana
+Dorina
+Draga
+Dumitra
+Ecaterina
+Elena
+Eleonora
+Eliana
+Elisabeta
+Eliza
+Elvira
+Emanuela
+Emilia
+Erica
+Estera
+Eugenia
+Eva
+Evelina
+Fabiana
+Felicia
+Filofteia
+Flavia
+Floarea
+Florența
+Florentina
+Floriana
+Florica
+Florina
+Francesca
+Gabriela
+Geanina
+Gențiana
+Georgeta
+Georgia
+Georgiana
+Gherghina
+Gianina
+Gina
+Giorgiana
+Grațiana
+Grațiela
+Iasmina
+Ileana
+Ilinca
+Ilona
+Ilona Cristina
+Ina
+Ioana
+Ioana Andreea
+Ioana Claudia
+Ioana Denisa
+Ioana Despina
+Ioana Draga
+Ioana Lavinia
+Ioana Letiția
+Ioana Manuela
+Ioana Maria
+Ioana Paula
+Ioana Violeta
+Iolanda
+Ionela
+Ionelia
+Iosefina
+Irina
+Iris
+Isabela
+Iulia
+Iulia Andreea
+Iulia Cezara
+Iulia Consuela
+Iulia Dafina
+Iulia Nicoleta
+Iuliana
+Iustina
+Ivona
+Izabela
+Jana
+Janina
+Julia
+Julieta
+Lăcrămioara
+Larisa
+Laura
+Laura Augustina
+Laura Cristina
+Laurenția
+Lavinia
+Lelia
+Leontina
+Letiția
+Lia
+Liana
+Lidia
+Ligia
+Lili
+Lili Ana
+Lili Dana
+Liliana
+Lioara
+Livia
+Loredana
+Lorelei
+Lorena
+Luana
+Lucia
+Luciana
+Lucreția
+Ludmila
+Luiza
+Luminița
+Mădălina
+Magdalena
+Maia
+Mălina
+Manuela
+Mara
+Mara Mădălina
+Marcela
+Marga
+Margareta
+Maria
+Maria Andreea
+Maria Antoaneta
+Maria Cezara
+Maria Consuela
+Maria Cristina
+Maria Eliza
+Maria Francesca
+Maria Letiția
+Maria Mădălina
+Maria Magdalena
+Maria Violeta
+Mariana
+Maricica
+Marilena
+Marina
+Marinela
+Mărioara
+Măriuca
+Marta
+Matilda
+Melania
+Mihaela
+Mihaela Ramona
+Milena
+Mina
+Minodora
+Mioara
+Mirabela
+Mirela
+Mirona
+Miruna
+Mona
+Monalisa
+Monica
+Nadia
+Narcisa
+Natalia
+Natașa
+Nicoleta
+Niculina
+Noemi
+Nora
+Norica
+Oana
+Oana Adriana
+Oana Andreea
+Oana Cristina
+Oana Lavinia
+Octavia
+Ofelia
+Olga
+Olimpia
+Olivia
+Olivia Ioana
+Otilia
+Ozana
+Paraschiva
+Patricia
+Paula
+Paulina
+Petronela
+Petruța
+Rada
+Raluca
+Ramona
+Ramona Albertina
+Rebeca
+Renata
+Roberta
+Rodica
+Romanița
+Romina
+Roxana
+Roxana Sorina
+Rozalia
+Ruxandra
+Sabina
+Sabrina
+Sanda
+Sanda Elena
+Sandra
+Sânziana
+Sidonia
+Silvana
+Silvia
+Silvia Mihaela
+Silviana
+Simina
+Simona
+Simona Despina
+Simona Florica
+Simona Mihaela
+Smaranda
+Sofia
+Sonia
+Sorana
+Sorina
+Speranța
+Stanca
+Ștefana
+Ștefania
+Stela
+Steliana
+Steluța
+Suzana
+Svetlana
+Tamara
+Tania
+Tatiana
+Teodora
+Timea
+Tinca
+Tincuța
+Tudora
+Tudorița
+Valentina
+Valeria
+Vasilica
+Venera
+Vera
+Veronica
+Victoria
+Violeta
+Violeta Catalina
+Violeta Dorina
+Violeta Maria
+Viorela
+Viorica
+Virginia
+Viviana
+Voichița
+Xenia
+Zamfira
+Zenovia
+Zina
+Zoe

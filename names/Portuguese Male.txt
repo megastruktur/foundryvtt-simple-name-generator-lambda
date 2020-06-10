@@ -1,0 +1,337 @@
+Abel
+Abelardo
+Acácio
+Adão
+Adner
+Adriano
+Afonso
+Agostinho
+Aguinaldo
+Aires
+Airton
+Alan
+Albano
+Alberto
+Alexandre
+Alfredo
+Amadeu
+Amado
+Amauri
+André
+André Filipe
+Ângelo
+Anselmo
+António
+António Maria
+António Pedro
+António Sérgio
+Armando
+Arnaldo
+Arnoldo
+Arsénio
+Artur
+Ary
+Ataíde
+Augusto
+Aureliano
+Baltasar
+Bartolomeu
+Basílio
+Belisário
+Benedito
+Benício
+Benício
+Benjamin
+Bento
+Bernardino
+Bernardo
+Brás
+Bráulio
+Bruno
+Caetano
+Caio
+Camilo
+Carlos
+Carlos Eduardo
+Carmin
+Casimiro
+Cassiano
+Cássio
+Célio
+César
+Cícero
+Ciro
+Cláudio
+Conrado
+Constantino
+Cosme
+Cristiano
+Cristóvão
+Custódio
+Damião
+Daniel
+Danilo
+Dante
+Dario
+Dário
+Davi
+David
+Delfim
+Délio
+Demétrio
+Diego
+Dinis
+Diogo
+Djalma
+Domingos
+Duarte
+Duílio
+Durval
+Edgar
+Edmundo
+Eduardo
+Egídio
+Elias
+Eliézer
+Élton
+Emanuel
+Emiliano
+Emílio
+Ernesto
+Estêvão
+Eugébio
+Eusébio
+Eustáquio
+Evandro
+Everaldo
+Expedito
+Ezequiel
+Fabiano
+Fábio
+Fabrício
+Faustino
+Fausto
+Feliciano
+Felício
+Felipe
+Félix
+Fernando
+Fernão
+Filipe
+Firmino
+Flávio
+Florentino
+Floriano
+Fortunato
+Francisco
+Franklin
+Frederico
+Fúlvio
+Gabriel
+Gaspar
+Geraldo
+Germano
+Gerson
+Gil
+Gilberto
+Gláucio
+Godofredo
+Gonçalo
+Graciano
+Gregório
+Guido
+Guilherme
+Gusmão
+Gustavo
+Haroldo
+Heitor
+Hélder
+Hélio
+Henrique
+Hilário
+Hildebrando
+Horácio
+Hugo
+Humberto
+Iago
+Ian
+Igor
+Inácio
+Inocêncio
+Irineu
+Isaac
+Isaías
+Ítalo
+Ivan
+Ivo
+Jacinto
+Jaime
+Jair
+Jairo
+Januário
+Jessé
+João
+João Alberto
+João Carlos
+João Diogo
+João Francisco
+João Gabriel
+João Guilherme
+João Henrique
+João Luís
+João Miguel
+João Paulo
+João Pedro
+João Victor
+Joaquim
+Joel
+Jonas
+Jónatas
+Jordano
+Jorge
+José
+José António
+José Luís
+José Maria
+José Miguel
+Josias
+Juliano
+Júlio
+Júlio César
+Justino
+Laércio
+Lauro
+Lázaro
+Leandro
+Leonardo
+Leone
+Leonel
+Lino
+Lisandro
+Lorival
+Lourenço
+Lucas
+Luciano
+Lúcio
+Luís
+Luís Filipe
+Luís Henrique
+Luís Miguel
+Luís Pedro
+Maciel
+Magno
+Manel
+Manoel
+Manuel
+Marcelo
+Márcio
+Marco
+Marco António
+Marcos
+Mariano
+Mário
+Martim
+Martinho
+Mateus
+Matias
+Maurício
+Mauro
+Maximiliano
+Melchior
+Mem
+Micael
+Miguel
+Miguel Ângelo
+Miguel Guilherme
+Milo
+Miro
+Misael
+Moisés
+Murilo
+Nélson
+Nicolau
+Nilo
+Nilson
+Norberto
+Nuno
+Nuno Miguel
+Octávio
+Olavo
+Omar
+Óscar
+Osvaldo
+Otávio
+Patrício
+Paulo
+Pedro
+Pedro Henrique
+Pedro Ivo
+Pedro Octávio
+Pepe
+Plácido
+Plínio
+Rafael
+Raimundo
+Ramiro
+Raúl
+Reginaldo
+Reinaldo
+Renato
+Ricardo
+Ricardo Jorge
+Roberto
+Rodolfo
+Rogério
+Romano
+Romão
+Romeu
+Rómulo
+Ronaldo
+Roque
+Rúben
+Rui
+Rui Miguel
+Salomão
+Salvador
+Samuel
+Sandro
+Santiago
+Saúl
+Saulo
+Selmo
+Sérgio
+Severiano
+Severino
+Silas
+Silvério
+Simão
+Tadeu
+Tarcísio
+Telmo
+Teodoro
+Teófilo
+Tiago
+Ticiano
+Timóteo
+Tomás
+Torquato
+Tristão
+Túlio
+Ubaldo
+Ulisses
+Valdemar
+Valdir
+Valentim
+Valentino
+Valério
+Válter
+Vasco
+Vicente
+Victor
+Victor Hugo
+Virgílio
+Vítor
+Vitorino
+Vitório
+Xavier
+Zacarias
