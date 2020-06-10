@@ -8,7 +8,8 @@ exports.handler = function(event, context, callback) {
   var response = {
     statusCode: 404,
     headers: {
-      'Content-Type': 'application/json; charset=utf-8'
+      'Content-Type': 'application/json; charset=utf-8',
+      'Access-Control-Allow-Origin': '*'
     },
     body: JSON.stringify(["Not Found"])
   };
