@@ -12,4 +12,5 @@ then
 fi
 
 # Make an archive and put it to packs dir
-zip -r packs/$1.zip application/*
+cd application
+zip -r ../packs/$1.zip .
