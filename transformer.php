@@ -60,13 +60,18 @@ foreach ($files as $file_name) {
 # Save Files.
 foreach ($names as $name_type => $name_list) {
 
-  foreach ($name_list as $key => $list) {
-    $name_list[$key] = array_map('utf8_encode', $list);
-  }
 
-  $json = json_encode($name_list);
+  // foreach ($name_list as $key => $list) {
+  //   $name_list[$key] = array_map('mbconverter', $list);
+  // }
+
+  $json = json_encode($name_list, JSON_UNESCAPED_UNICODE|JSON_UNESCAPED_SLASHES);
   $filename = $path_library . $name_type . '.json';
   $export_file = fopen($filename, 'w');
   fwrite($export_file, $json);
   fclose($export_file);
+}
+
+function mbconverter($str) {
+  return mb_convert_encoding($str, 'UTF-8');
 }
